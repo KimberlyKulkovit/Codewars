@@ -21,3 +21,10 @@ function howManyLightsabersDoYouOwn(name) {
     return 0;
   }
 }
+
+/* 
+Another possible option would be: 
+function howManyLightsabersDoYouOwn(name) {
+  return name === 'Zach' ? 18 : 0;
+}
+*/ 
